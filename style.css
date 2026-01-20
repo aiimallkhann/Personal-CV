@@ -1,0 +1,77 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: whitesmoke;
+  margin: 10px;
+}
+body p,
+body ul{
+  font-size: 14px;
+}
+#header{
+  border: 5px;
+}
+.details h3{
+  color: rgb(135, 202, 36);
+}
+.details-user p{
+  line-height: 0.4;
+}
+.details-user{
+  margin-bottom: 30px;
+}
+#skills-head{
+  color: rgb(135, 202, 36);
+  font-weight: 550;
+}
+.edu__now{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.edu h3{
+  color: rgb(135, 202, 36);
+}
+.edu h2{
+  color: rgb(121, 121, 243);
+  font-size: 20px;
+}
+.edu__list-element{
+  text-decoration: none;
+  list-style-type: none;
+}
+.edu__list{
+  padding-left: 0;
+  margin-left: 0;
+}
+.exp__now{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.exp h3{
+  color: rgb(135, 202, 36);
+}
+.exp h2{
+  color: rgb(121, 121, 243);
+  font-size: 20px;
+}
+.exp__list-element{
+  text-decoration: none;
+  list-style-type: none;
+}
+.exp__list{
+  padding-left: 0;
+  margin-left: 0;
+}
+.exp2{
+  margin-top: 20px;
+}
+.cta{
+  color: black;
+  text-decoration: none;
+}
+.cta:hover{
+  color: rgb(54, 54, 54);
+}
